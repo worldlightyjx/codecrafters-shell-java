@@ -6,6 +6,6 @@ public class Main {
          System.out.print("$ ");
          Scanner scanner = new Scanner(System.in);
          String command = scanner.nextLine();
-         System.out.println(command);
+         System.out.println("command not found");
     }
 }
